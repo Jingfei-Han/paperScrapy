@@ -3,7 +3,7 @@
 
 2. mysqlpool.py 自定义了一个mysql的连接池函数，便于使用
 
-3. spiders/dblpSpider.py 对ccf或者给定一个venue名称，找到dblp数据库中对应的dblp名称
+3. spiders/dblpSpider.py 对ccf或者core给定一个venue名称，找到dblp数据库中对应的dblp名称
 
 4. 当前任务，加入代理
 
